@@ -1,2 +1,2 @@
 # Automation-Testing-Project
-Using Selenium WebDriver to test and automate website test cases.
+Using Selenium WebDriver to automate website test cases.
